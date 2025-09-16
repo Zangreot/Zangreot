@@ -46,7 +46,6 @@ An ecosystem of **Discord utility bots** to support streamers & guilds.
 
 ## 📊 GitHub Activity
 ![Zangreot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zangreot&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zangreot&layout=compact&theme=radical)
 
 ---
 
