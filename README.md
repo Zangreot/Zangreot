@@ -50,4 +50,5 @@ An ecosystem of **Discord utility bots** to support streamers & guilds.
 ---
 
 ## 📬 Contact
-- Discord: **Zangreot**  
+- Discord: **Zangreot**
+- Mail: zangreot@gmail.com
