@@ -51,4 +51,3 @@ An ecosystem of **Discord utility bots** to support streamers & guilds.
 
 ## 📬 Contact
 - Discord: **Zangreot**  
-- Twitter: [@zangreot](https://twitter.com/zangreot)
